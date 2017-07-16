@@ -6,7 +6,7 @@
  			<RomUrl
  				id="rom"
  				title="Unofficial Update Cycle"
-                                description="Download latest crDroid Unofficial build">http://vmi121881.contaboserver.net/cr/zerofltexx/Unofficial/crDroidAndroid-7.1.2-20170715-zerofltexx-v3.5.zip</RomUrl>
+description="Download latest crDroid Unofficial build">http://vmi121881.contaboserver.net/cr/zerofltexx/Unofficial/crDroidAndroid-7.1.2-20170715-zerofltexx-v3.5.zip</RomUrl>
  			<SlimGappsUrl
  				id="gapps"
  				title="GApps"
