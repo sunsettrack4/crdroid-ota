@@ -20,5 +20,24 @@
         			title="Donate"
         			description="Please donate to cover the server costs">https://paypal.me/sunsettrack4</DonateURL>
  		</zerofltexx>
+		<zeroltexx>
+                        <Filename>crDroidAndroid-7.1.2-20170715-zeroltexx-v3.5.zip</Filename>
+ 			<RomUrl
+ 				id="rom"
+ 				title="Unofficial Update Cycle"
+                                description="Download latest crDroid Unofficial build">http://vmi121881.contaboserver.net/cr/zeroltexx/Unofficial/crDroidAndroid-7.1.2-20170715-zeroltexx-v3.5.zip</RomUrl>
+ 			<SlimGappsUrl
+ 				id="gapps"
+ 				title="GApps"
+ 				description="Download latest OpenGApps">http://opengapps.org/</SlimGappsUrl>
+ 			<XDAUrl
+ 				id="xda"
+ 				title="XDA"
+ 				description="View XDA thread">coming soon</XDAUrl>
+      			<DonateURL
+        			id="donate"
+        			title="Donate"
+        			description="Please donate to cover the server costs">https://paypal.me/sunsettrack4</DonateURL>
+ 		</zeroltexx>
 	</Stable>
  </SlimOTA>
