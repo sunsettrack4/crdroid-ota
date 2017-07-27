@@ -21,11 +21,11 @@
         			description="Please donate to cover the server costs">https://paypal.me/sunsettrack4</DonateURL>
  		</zerofltexx>
 		<zeroltexx>
-                        <Filename>crDroidAndroid-7.1.2-20170724-zeroltexx-v3.6.zip</Filename>
+                        <Filename>crDroidAndroid-7.1.2-20170727-zeroltexx-v3.6.zip</Filename>
  			<RomUrl
  				id="rom"
  				title="Official Update Cycle"
-                                description="Download latest crDroid Official build">http://vmi121881.contaboserver.net/cr/zeroltexx/Unofficial/crDroidAndroid-7.1.2-20170724-zeroltexx-v3.6.zip</RomUrl>
+                                description="Download latest crDroid Official build">http://vmi121881.contaboserver.net/cr/zeroltexx/Official/crDroidAndroid-7.1.2-20170727-zeroltexx-v3.6.zip</RomUrl>
  			<SlimGappsUrl
  				id="gapps"
  				title="GApps"
